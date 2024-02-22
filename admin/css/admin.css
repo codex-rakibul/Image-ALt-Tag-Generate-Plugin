@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .custom-generate-ai-button{
+   background-color: #228ae6 !important;
+   border: none !important;
+   color: #FFFFFF !important;
+   padding: 10px 20px !important;
+   text-align: center !important;
+   text-decoration: none !important;
+   display: inline-block !important;
+   font-size: 16px !important;
+   margin: 16px 0 !important;
+   cursor: pointer !important;
+   border-radius: 4px !important;
+   display: flex !important;
+   justify-content: center;
+   align-items: start;
+   gap: 6px;
+}
